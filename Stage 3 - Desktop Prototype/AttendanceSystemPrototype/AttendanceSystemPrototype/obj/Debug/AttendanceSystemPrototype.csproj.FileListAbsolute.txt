@@ -1,0 +1,22 @@
+C:\Users\Lewis\Desktop\Stage 3 - Desktop Prototype\AttendanceSystemPrototype\AttendanceSystemPrototype\bin\Debug\AttendanceSystemPrototype.exe.config
+C:\Users\Lewis\Desktop\Stage 3 - Desktop Prototype\AttendanceSystemPrototype\AttendanceSystemPrototype\bin\Debug\AttendanceSystemPrototype.exe
+C:\Users\Lewis\Desktop\Stage 3 - Desktop Prototype\AttendanceSystemPrototype\AttendanceSystemPrototype\bin\Debug\AttendanceSystemPrototype.pdb
+C:\Users\Lewis\Desktop\Stage 3 - Desktop Prototype\AttendanceSystemPrototype\AttendanceSystemPrototype\obj\Debug\AttendanceSystemPrototype.csprojAssemblyReference.cache
+C:\Users\Lewis\Desktop\Stage 3 - Desktop Prototype\AttendanceSystemPrototype\AttendanceSystemPrototype\obj\Debug\AttendanceSystemPrototype.Form1.resources
+C:\Users\Lewis\Desktop\Stage 3 - Desktop Prototype\AttendanceSystemPrototype\AttendanceSystemPrototype\obj\Debug\AttendanceSystemPrototype.Properties.Resources.resources
+C:\Users\Lewis\Desktop\Stage 3 - Desktop Prototype\AttendanceSystemPrototype\AttendanceSystemPrototype\obj\Debug\AttendanceSystemPrototype.csproj.GenerateResource.cache
+C:\Users\Lewis\Desktop\Stage 3 - Desktop Prototype\AttendanceSystemPrototype\AttendanceSystemPrototype\obj\Debug\AttendanceSystemPrototype.csproj.CoreCompileInputs.cache
+C:\Users\Lewis\Desktop\Stage 3 - Desktop Prototype\AttendanceSystemPrototype\AttendanceSystemPrototype\obj\Debug\AttendanceSystemPrototype.exe
+C:\Users\Lewis\Desktop\Stage 3 - Desktop Prototype\AttendanceSystemPrototype\AttendanceSystemPrototype\obj\Debug\AttendanceSystemPrototype.pdb
+C:\Users\Lewis\Desktop\Stage 3 - Desktop Prototype\AttendanceSystemPrototype\AttendanceSystemPrototype\obj\Debug\AttendanceSystemPrototype.DataScreen.resources
+C:\Users\USER\Desktop\IT projects\Stage3\week2&3&4\Stage_3_-_Desktop_Prototype-20210422T093806Z-001\Stage 3 - Desktop Prototype\AttendanceSystemPrototype\AttendanceSystemPrototype\obj\Debug\AttendanceSystemPrototype.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\IT projects\Stage3\week2&3&4\Stage_3_-_Desktop_Prototype-20210422T093806Z-001\Stage 3 - Desktop Prototype\AttendanceSystemPrototype\AttendanceSystemPrototype\obj\Debug\AttendanceSystemPrototype.exe
+C:\Users\USER\Desktop\IT projects\Stage3\week2&3&4\Stage_3_-_Desktop_Prototype-20210422T093806Z-001\Stage 3 - Desktop Prototype\AttendanceSystemPrototype\AttendanceSystemPrototype\obj\Debug\AttendanceSystemPrototype.pdb
+C:\Users\USER\Desktop\IT projects\Stage3\week2&3&4\Stage_3_-_Desktop_Prototype-20210422T093806Z-001\Stage 3 - Desktop Prototype\AttendanceSystemPrototype\AttendanceSystemPrototype\bin\Debug\AttendanceSystemPrototype.exe.config
+C:\Users\USER\Desktop\IT projects\Stage3\week2&3&4\Stage_3_-_Desktop_Prototype-20210422T093806Z-001\Stage 3 - Desktop Prototype\AttendanceSystemPrototype\AttendanceSystemPrototype\bin\Debug\AttendanceSystemPrototype.exe
+C:\Users\USER\Desktop\IT projects\Stage3\week2&3&4\Stage_3_-_Desktop_Prototype-20210422T093806Z-001\Stage 3 - Desktop Prototype\AttendanceSystemPrototype\AttendanceSystemPrototype\bin\Debug\AttendanceSystemPrototype.pdb
+C:\Users\USER\Desktop\IT projects\Stage3\week2&3&4\Stage_3_-_Desktop_Prototype-20210422T093806Z-001\Stage 3 - Desktop Prototype\AttendanceSystemPrototype\AttendanceSystemPrototype\obj\Debug\AttendanceSystemPrototype.DataScreen.resources
+C:\Users\USER\Desktop\IT projects\Stage3\week2&3&4\Stage_3_-_Desktop_Prototype-20210422T093806Z-001\Stage 3 - Desktop Prototype\AttendanceSystemPrototype\AttendanceSystemPrototype\obj\Debug\AttendanceSystemPrototype.Form1.resources
+C:\Users\USER\Desktop\IT projects\Stage3\week2&3&4\Stage_3_-_Desktop_Prototype-20210422T093806Z-001\Stage 3 - Desktop Prototype\AttendanceSystemPrototype\AttendanceSystemPrototype\obj\Debug\AttendanceSystemPrototype.Properties.Resources.resources
+C:\Users\USER\Desktop\IT projects\Stage3\week2&3&4\Stage_3_-_Desktop_Prototype-20210422T093806Z-001\Stage 3 - Desktop Prototype\AttendanceSystemPrototype\AttendanceSystemPrototype\obj\Debug\AttendanceSystemPrototype.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\IT projects\Stage3\week2&3&4\Stage_3_-_Desktop_Prototype-20210422T093806Z-001\Stage 3 - Desktop Prototype\AttendanceSystemPrototype\AttendanceSystemPrototype\obj\Debug\AttendanceSystemPrototype.csproj.CoreCompileInputs.cache
