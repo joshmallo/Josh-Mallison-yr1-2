@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Year2\systems programming\Week8HW\q1\obj\Debug\net5.0\q1.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Year2\systems programming\Week8HW\q1\obj\Debug\net5.0\q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Year2\systems programming\Week8HW\q1\obj\Debug\net5.0\q1.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Year2\systems programming\Week8HW\q1\obj\Debug\net5.0\q1.AssemblyInfo.cs
+C:\Users\USER\Desktop\Year2\systems programming\Week8HW\q1\obj\Debug\net5.0\q1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Year2\systems programming\Week8HW\q1\bin\Debug\net5.0\q1.exe
+C:\Users\USER\Desktop\Year2\systems programming\Week8HW\q1\bin\Debug\net5.0\q1.deps.json
+C:\Users\USER\Desktop\Year2\systems programming\Week8HW\q1\bin\Debug\net5.0\q1.runtimeconfig.json
+C:\Users\USER\Desktop\Year2\systems programming\Week8HW\q1\bin\Debug\net5.0\q1.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Year2\systems programming\Week8HW\q1\bin\Debug\net5.0\q1.dll
+C:\Users\USER\Desktop\Year2\systems programming\Week8HW\q1\bin\Debug\net5.0\ref\q1.dll
+C:\Users\USER\Desktop\Year2\systems programming\Week8HW\q1\bin\Debug\net5.0\q1.pdb
+C:\Users\USER\Desktop\Year2\systems programming\Week8HW\q1\obj\Debug\net5.0\q1.dll
+C:\Users\USER\Desktop\Year2\systems programming\Week8HW\q1\obj\Debug\net5.0\ref\q1.dll
+C:\Users\USER\Desktop\Year2\systems programming\Week8HW\q1\obj\Debug\net5.0\q1.pdb
+C:\Users\USER\Desktop\Year2\systems programming\Week8HW\q1\obj\Debug\net5.0\q1.genruntimeconfig.cache

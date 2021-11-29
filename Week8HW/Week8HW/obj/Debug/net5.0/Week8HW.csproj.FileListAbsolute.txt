@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Year2\systems programming\Week8HW\Week8HW\bin\Debug\net5.0\Week8HW.exe
+C:\Users\USER\Desktop\Year2\systems programming\Week8HW\Week8HW\bin\Debug\net5.0\Week8HW.deps.json
+C:\Users\USER\Desktop\Year2\systems programming\Week8HW\Week8HW\bin\Debug\net5.0\Week8HW.runtimeconfig.json
+C:\Users\USER\Desktop\Year2\systems programming\Week8HW\Week8HW\bin\Debug\net5.0\Week8HW.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Year2\systems programming\Week8HW\Week8HW\bin\Debug\net5.0\Week8HW.dll
+C:\Users\USER\Desktop\Year2\systems programming\Week8HW\Week8HW\bin\Debug\net5.0\ref\Week8HW.dll
+C:\Users\USER\Desktop\Year2\systems programming\Week8HW\Week8HW\bin\Debug\net5.0\Week8HW.pdb
+C:\Users\USER\Desktop\Year2\systems programming\Week8HW\Week8HW\obj\Debug\net5.0\Week8HW.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Year2\systems programming\Week8HW\Week8HW\obj\Debug\net5.0\Week8HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Year2\systems programming\Week8HW\Week8HW\obj\Debug\net5.0\Week8HW.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Year2\systems programming\Week8HW\Week8HW\obj\Debug\net5.0\Week8HW.AssemblyInfo.cs
+C:\Users\USER\Desktop\Year2\systems programming\Week8HW\Week8HW\obj\Debug\net5.0\Week8HW.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Year2\systems programming\Week8HW\Week8HW\obj\Debug\net5.0\Week8HW.dll
+C:\Users\USER\Desktop\Year2\systems programming\Week8HW\Week8HW\obj\Debug\net5.0\ref\Week8HW.dll
+C:\Users\USER\Desktop\Year2\systems programming\Week8HW\Week8HW\obj\Debug\net5.0\Week8HW.pdb
+C:\Users\USER\Desktop\Year2\systems programming\Week8HW\Week8HW\obj\Debug\net5.0\Week8HW.genruntimeconfig.cache
